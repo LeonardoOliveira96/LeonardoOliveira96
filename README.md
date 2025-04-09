@@ -39,4 +39,10 @@
   </a>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github.com/LeonardoOliveira96/LeonardoOliveira96/blob/output/github-contribution-grid-snake2.svg" alt="snake animation" />
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
