@@ -45,14 +45,14 @@
 
 <br>
 
-## 📊 Contribuições e Repositórios
+## 📊 Contribuições
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LeonardoOliveira96&theme=algolia&row=1&no-bg=true" alt="Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoOliveira96&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-contributions-stats.vercel.app/api?username=LeonardoOliveira96&theme=github_dark" alt="Contributions" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
