@@ -14,12 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       # Snake Animation
-      - uses: Sutil/snk@master
-        id: snake-gif
+      - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake2.svg
-          snake_color: 'blue'
+          outputs: |
+            dist/github-contribution-grid-snake2.svg?color_snake=blue&color_dots=#9be9a8,#40c463,#30a14e,#216e39,#0d4429
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
