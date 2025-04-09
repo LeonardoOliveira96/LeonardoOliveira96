@@ -39,12 +39,4 @@
   </a>
 </div>
 
-<br>
-
-## 📊 Contribuições
-
-<div align="center">
-  <img src="https://github-contributions-stats.vercel.app/api?username=LeonardoOliveira96&theme=github_dark" alt="Contributions" />
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
