@@ -11,10 +11,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoOliveira96&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="LeonardoOliveira96's Most Used Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoOliveira96&theme=blue-green&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Total de Commits" />
-</div>
-
 <br>
 
 <div align="center" style="display: inline_block">
@@ -46,10 +42,6 @@
 <br>
 
 ## 📊 Contribuições
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeonardoOliveira96&theme=algolia&row=1&no-bg=true" alt="Trophies" />
-</div>
 
 <div align="center">
   <img src="https://github-contributions-stats.vercel.app/api?username=LeonardoOliveira96&theme=github_dark" alt="Contributions" />
