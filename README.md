@@ -49,7 +49,7 @@
 ## 🐍 Contribuições
 
 <div align="center">
-  <img alt="Snake Animation" src="https://github.com/seuusername/seuusername/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/LeonardoOliveira96/LeonardoOliveira96/output/github-contribution-grid-snake.svg">
 </div>
 
 <!-- Contador de Visitas -->
