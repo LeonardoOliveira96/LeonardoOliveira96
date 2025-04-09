@@ -43,4 +43,16 @@
   </a>
 </div>
 
+<br>
+
+## 📊 Contribuições e Repositórios
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LeonardoOliveira96&theme=algolia&row=1&no-bg=true" alt="Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeonardoOliveira96&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
