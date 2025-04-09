@@ -6,28 +6,11 @@
 
 <br>
 
-## 👨‍💻 Sobre mim
-
-- 🔭 Atualmente trabalhando como Desenvolvedor Full Stack
-- 🌱 Sempre estudando e me aprimorando nas tecnologias mais recentes
-- 💬 Pergunte-me sobre desenvolvimento web e mobile
-- ⚡ Fato curioso: Código, café e música são minha combinação perfeita!
-
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Most Used Languages" />
-</div>
-
-<br>
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seuusername&theme=blue-green&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Streak Stats" />
 </div>
 
 <br>
