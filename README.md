@@ -7,8 +7,7 @@
 <br>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LeonardoOliveira96&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="LeonardoOliveira96's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoOliveira96&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="LeonardoOliveira96's Most Used Languages" />
+  <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoOliveira96&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="LeonardoOliveira96's Most Used Languages" />
 </div>
 
 <br>
@@ -42,15 +41,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeonardoOliveira96/LeonardoOliveira96/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeonardoOliveira96/LeonardoOliveira96/output/github-contribution-grid-snake-dark.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeonardoOliveira96/LeonardoOliveira96/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
