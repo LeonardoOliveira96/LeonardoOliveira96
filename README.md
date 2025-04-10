@@ -1,4 +1,4 @@
-# 💻 Full Stack Developer | Transforming Ideas into Digital Reality
+# 💻 Full Stack Developer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile!;My+name+is+Leonardo!" />
@@ -28,7 +28,6 @@
   <b>|</b>
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 </div>
 
 <br>
