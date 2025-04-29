@@ -6,12 +6,6 @@
 
 <br>
 
-<div align="center">
-  <img width="80%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoOliveira96&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="LeonardoOliveira96's Most Used Languages" />
-</div>
-
-<br>
-
 <div align="center" style="display: inline_block">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
